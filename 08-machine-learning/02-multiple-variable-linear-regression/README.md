@@ -8,7 +8,3 @@
 
 - `data/homeprices (2).csv` is required for the file-based cells.
 - `data/hiring.csv` is required for the file-based cells.
-
-## Sources
-
-Source: [Codebasics](https://github.com/codebasics/py).

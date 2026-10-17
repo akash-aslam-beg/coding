@@ -48,4 +48,4 @@ The saved outputs and earlier execution checks have different verification scope
 
 The C examples include Computer Programming (ME 2221) and its sessional (ME 2222), taken in the second year, second semester, together with exercises from Numerical Computation for Mechanical Engineers (ME 3121) and its sessional (ME 3122).
 
-Tutorial references are retained in the relevant folders and notebooks. Reuse terms for third-party material are described in [SOURCES.md](SOURCES.md).
+Learning references and dataset sources are listed in [SOURCES.md](SOURCES.md).

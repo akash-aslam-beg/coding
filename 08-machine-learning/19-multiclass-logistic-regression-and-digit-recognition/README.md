@@ -5,7 +5,3 @@
 - [Handwritten digits](01-handwritten-digits.ipynb)
 - [Iris classification](02-iris-classification.ipynb)
 - [Handwritten digits](03-handwritten-digits.ipynb)
-
-## Sources
-
-Source: [Codebasics](https://github.com/codebasics/py).

@@ -9,7 +9,3 @@
 
 - `data/Melbourne_housing_FULL.csv` is required for the file-based cells.
 - `./Melbourne_housing_FULL.csv` is required for the file-based cells.
-
-## Sources
-
-Source: [Codebasics](https://github.com/codebasics/py).

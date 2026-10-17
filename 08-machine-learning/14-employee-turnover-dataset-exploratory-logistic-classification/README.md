@@ -7,7 +7,3 @@
 ## Data
 
 - `data/HR_comma_sep.csv` is required for the file-based cells.
-
-## Sources
-
-Source: [Codebasics](https://github.com/codebasics/py).

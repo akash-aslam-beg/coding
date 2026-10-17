@@ -12,7 +12,3 @@
 Recorded dataset links:
 
 - [diabetes.csv](https://raw.githubusercontent.com/codebasics/py/master/ML/19_Bagging/diabetes.csv)
-
-## Sources
-
-Source: [Codebasics](https://github.com/codebasics/py).

@@ -12,7 +12,3 @@
 Recorded dataset links:
 
 - [salaries.csv](https://raw.githubusercontent.com/codebasics/py/master/ML/9_decision_tree/salaries.csv)
-
-## Sources
-
-Source: [Codebasics](https://github.com/codebasics/py).

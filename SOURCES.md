@@ -7,7 +7,7 @@ Some exercises follow external lessons. The explicit references recorded in the 
 - [Stephen Welch: Neural Networks Demystified](https://github.com/stephencwelch/Neural-Networks-Demystified).
 - [Melbourne housing dataset](https://www.kaggle.com/anthonypino/melbourne-housing-market), linked in the regularization notebook.
 
-Individual folders and notebooks retain their applicable source references. 
+These are learning and dataset references, not blanket authorship credits for every notebook. Specific author credits already present in the notebooks remain, and dataset links are recorded in the code and topic READMEs.
 
 Some numerical-method and Pandas study notes do not record their original source URL. Coursework notebooks also contain textbook/problem screenshots. Their reuse terms still need to be established before public release.
 

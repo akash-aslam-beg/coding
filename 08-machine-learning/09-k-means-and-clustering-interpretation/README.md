@@ -11,7 +11,3 @@
 Recorded dataset links:
 
 - [income.csv](https://raw.githubusercontent.com/codebasics/py/master/ML/13_kmeans/income.csv)
-
-## Sources
-
-Source: [Codebasics](https://github.com/codebasics/py).

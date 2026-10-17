@@ -16,7 +16,3 @@
 Recorded dataset links:
 
 - [spam.csv](https://raw.githubusercontent.com/codebasics/py/master/ML/14_naive_bayes/spam.csv)
-
-## Sources
-
-Source: [Codebasics](https://github.com/codebasics/py).

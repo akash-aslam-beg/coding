@@ -14,9 +14,3 @@
 Recorded dataset links:
 
 - [homeprices_banglore.csv](https://raw.githubusercontent.com/codebasics/deep-learning-keras-tf-tutorial/refs/heads/master/8_sgd_vs_gd/homeprices_banglore.csv)
-
-## Sources
-
-Source: [Codebasics](https://github.com/codebasics/deep-learning-keras-tf-tutorial).
-
-Source: [Stephen Welch, Neural Networks Demystified](https://github.com/stephencwelch/Neural-Networks-Demystified).

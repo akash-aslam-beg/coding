@@ -1,6 +1,6 @@
 # Machine learning
 
-Regression, classification, clustering, dimensionality reduction and model evaluation. Recorded tutorial sources are listed alongside the examples.
+Regression, classification, clustering, dimensionality reduction and model evaluation.
 
 - [Single-variable linear regression](01-single-variable-linear-regression/README.md)
 - [Multiple-variable linear regression](02-multiple-variable-linear-regression/README.md)

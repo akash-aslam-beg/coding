@@ -7,7 +7,3 @@
 ## Data
 
 - `data/WA_Fn-UseC_-Telco-Customer-Churn.csv` is required for the file-based cells.
-
-## Sources
-
-Source: [Codebasics](https://github.com/codebasics/deep-learning-keras-tf-tutorial).
