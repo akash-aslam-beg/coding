@@ -1,0 +1,1 @@
+Enter the base of the triangle: Enter the height of the triangle: Area of the triangle is 4.50

@@ -1,0 +1,4 @@
+Enter the number of students: Enter Roll number for student 1: Enter Marks for student 1: Roll 1 : Marks 90.00 , Grade A+
+Enter Roll number for student 2: Enter Marks for student 2: Roll 2 : Marks 80.00 , Grade B+
+Enter Roll number for student 3: Enter Marks for student 3: Roll 3 : Marks 40.00 , Grade F
+Enter Roll number for student 4: Enter Marks for student 4: Roll 4 : Marks 100.00 , Grade A+

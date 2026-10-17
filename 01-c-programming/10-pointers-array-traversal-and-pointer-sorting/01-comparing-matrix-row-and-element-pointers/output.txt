@@ -1,0 +1,11 @@
+Using *(array+i) or **(array+i)
+Address is 000000000061FE20 value is 6
+Address is 000000000061FE2C value is 0
+Address is 000000000061FE38 value is 4
+
+
+Using ptr or *ptr
+Address is 000000000061FE20 value is 6
+Address is 000000000061FE24 value is 2
+Address is 000000000061FE28 value is 5
+

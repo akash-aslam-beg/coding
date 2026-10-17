@@ -1,0 +1,4 @@
+ID: 1
+Marks: 45.5
+Name: Alex
+Union storage: 36 bytes

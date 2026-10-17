@@ -1,0 +1,4 @@
+Opinion: Example record
+Roll: 101
+marks: 46.215401
+letter: a

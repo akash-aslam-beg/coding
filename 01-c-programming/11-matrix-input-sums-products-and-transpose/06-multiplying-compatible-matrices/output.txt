@@ -1,0 +1,5 @@
+Enter the number of rows for the first matrix: Enter the number of columns for the first matrix: Enter the number of rows for the second matrix: Enter the number of columns for the second matrix: Enter elements for the first matrix:
+Mat1[1][1]: Mat1[1][2]: Mat1[1][3]: Mat1[2][1]: Mat1[2][2]: Mat1[2][3]: Enter elements for the second matrix:
+Mat2[1][1]: Mat2[1][2]: Mat2[2][1]: Mat2[2][2]: Mat2[3][1]: Mat2[3][2]: Resultant matrix after multiplication:
+58 64 
+139 154 

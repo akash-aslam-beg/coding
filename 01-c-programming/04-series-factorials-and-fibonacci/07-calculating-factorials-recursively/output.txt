@@ -1,0 +1,2 @@
+Enter the number you want to know the factorial: 
+The factorial of 6 is 720

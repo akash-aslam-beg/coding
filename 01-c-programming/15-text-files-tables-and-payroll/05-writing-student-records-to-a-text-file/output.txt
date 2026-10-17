@@ -1,0 +1,5 @@
+Enter the number of students: 
+Enter information for student 1:
+Roll: Name: Grade: 
+Enter information for student 2:
+Roll: Name: Grade: Student information has been successfully written to the file.

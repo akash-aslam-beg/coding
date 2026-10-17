@@ -1,0 +1,2 @@
+
+Sum of the series is 1.999512

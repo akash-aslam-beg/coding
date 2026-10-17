@@ -1,0 +1,3 @@
+alpha contains 5 letters
+beta contains 4 letters
+alpha is lexicographically smaller than beta

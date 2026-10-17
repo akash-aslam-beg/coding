@@ -1,0 +1,5 @@
+Enter the number of elements: Enter the elements:
+Enter the 1st element: Enter the 2nd element: Enter the 3th element: Enter the 4th element: Enter the 5th element: Ascending order:
+1 2 3 4 5 
+Descending order:
+5 4 3 2 1 

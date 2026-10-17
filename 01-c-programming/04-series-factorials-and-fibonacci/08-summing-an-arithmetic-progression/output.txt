@@ -1,0 +1,1 @@
+Enter the first number of the series(a): Enter the last number of the series(r): Enter the difference between each number of the series(d): The summation is : 26 

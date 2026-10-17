@@ -1,0 +1,3 @@
+Enter loan amount:  Enter Interest rate:  Enter years:  Total amount to be paid is 1320.00
+monthly amount to be paid is 55.00
+ 

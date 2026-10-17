@@ -1,0 +1,2 @@
+Enter ten integers, then the search value:
+6 found at index 5

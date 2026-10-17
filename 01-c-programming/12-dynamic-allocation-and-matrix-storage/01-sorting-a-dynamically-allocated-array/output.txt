@@ -1,0 +1,7 @@
+Enter the total value of the array: 
+Enter the 1th number:  Enter the 2th number:  Enter the 3th number:  Enter the 4th number:  Enter the 5th number:  
+The given set of numbers are:
+4  1  5  2  3  
+
+The ascending order of the given set of numbers is:
+1  2  3  4  5  

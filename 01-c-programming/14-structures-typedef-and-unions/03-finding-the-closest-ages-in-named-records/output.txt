@@ -1,0 +1,74 @@
+Enter the name of the 1th person:
+Enter the age of the 1th person:
+Enter the name of the 2th person:
+Enter the age of the 2th person:
+Enter the name of the 3th person:
+Enter the age of the 3th person:
+Enter the name of the 4th person:
+Enter the age of the 4th person:
+Enter the name of the 5th person:
+Enter the age of the 5th person:
+Enter the name of the 6th person:
+Enter the age of the 6th person:
+Enter the name of the 7th person:
+Enter the age of the 7th person:
+Enter the name of the 8th person:
+Enter the age of the 8th person:
+Enter the name of the 9th person:
+Enter the age of the 9th person:
+Enter the name of the 10th person:
+Enter the age of the 10th person:
+
+
+The input names and ages of each of the 10 persons are:
+
+Person 1 >>>>>
+Name: Zara
+age: 24
+
+Person 2 >>>>>
+Name: Bo
+age: 20
+
+Person 3 >>>>>
+Name: Mira
+age: 22
+
+Person 4 >>>>>
+Name: Alex
+age: 19
+
+Person 5 >>>>>
+Name: Chen
+age: 21
+
+Person 6 >>>>>
+Name: Dana
+age: 25
+
+Person 7 >>>>>
+Name: Eli
+age: 23
+
+Person 8 >>>>>
+Name: Fran
+age: 18
+
+Person 9 >>>>>
+Name: Gus
+age: 26
+
+Person 10 >>>>>
+Name: Hana
+age: 27
+
+Among the input names the two persons with the minimum age difference is:
+Person 1 >>>>>
+Name: Fran
+age: 18
+
+Person 2 >>>>>
+Name: Alex
+age: 19
+
+The age difference is 1

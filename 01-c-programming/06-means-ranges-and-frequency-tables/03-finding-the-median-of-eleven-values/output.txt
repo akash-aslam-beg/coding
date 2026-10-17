@@ -1,0 +1,19 @@
+Enter value 1 of list X: Enter value 2 of list X: Enter value 3 of list X: Enter value 4 of list X: Enter value 5 of list X: Enter value 6 of list X: Enter value 7 of list X: Enter value 8 of list X: Enter value 9 of list X: Enter value 10 of list X: Enter value 11 of list X: 
+The values in list is:
+11  4  9  2  8  3  7  1  6  5  10  
+
+Arranged value in order of magnitude:
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10
+11. 11
+
+
+Middle value of the ordered list is: 6

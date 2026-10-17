@@ -1,0 +1,1 @@
+Enter the employee ID: Enter the employee basic salary: Enter the employee allowances: Enter the employee deductions: 

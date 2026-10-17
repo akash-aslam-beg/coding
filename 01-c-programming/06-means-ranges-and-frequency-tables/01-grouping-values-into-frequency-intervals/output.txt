@@ -1,0 +1,9 @@
+
+
+The frequency distribution with the specified class intervals is:
+
+No. of Values in class interval [0,5]   is = 18
+No. of Values in class interval [6,10]  is = 24
+No. of Values in class interval [11,15] is = 16
+No. of Values in class interval [16,20] is = 13
+No. of Values in class interval [21,25] is = 29

@@ -1,0 +1,6 @@
+Enter the total numbers of the array: Enter the 1th element of the array: Enter the 2th element of the array: Enter the 3th element of the array: Enter the 4th element of the array: Enter the 5th element of the array: The original array is: 
+4  1  5  2  3  
+The ascending sorted array is:
+1 2 3 4 5 
+The descending sorted array is:
+5 4 3 2 1 

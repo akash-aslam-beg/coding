@@ -1,0 +1,2 @@
+0 *****
+Enter the number, enter 0 to exit: Enter the number, enter 0 to exit: Enter the number, enter 0 to exit: 

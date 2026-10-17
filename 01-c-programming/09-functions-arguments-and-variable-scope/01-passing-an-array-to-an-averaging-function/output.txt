@@ -1,0 +1,2 @@
+Enter how many numbers you want to input: Enter the 1th element of array: Enter the 2th element of array: Enter the 3th element of array: Enter the 4th element of array: Enter the 5th element of array: the average of the numbers in the array is 3.000000
+

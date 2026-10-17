@@ -1,0 +1,4 @@
+Enter a number: Enter another number: 17 + 5 = 22
+17 - 5 = 12
+17 * 5 = 85
+17 / 5 = 3

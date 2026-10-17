@@ -1,0 +1,1 @@
+Enter a number to check whether it's odd or even The number is odd and remainder is -1

@@ -1,0 +1,7 @@
+How many numbers to be sorted: 
+
+Enter the name of the data file: 
+
+The data to be sorted is: 4 1 5 2 3
+
+Enter the name of the write data file: 

@@ -1,0 +1,14 @@
+
+Input 2 pairs of coordinate points to compute the distance:
+
+*****Coordinate pair1*****
+Input the co-ordinate point P(X1,Y1):
+X1: Y1: Input the co-ordinate point Q(X2,Y2):
+X2: Y2: The distance between the pairs of coordinates: 5.000000
+
+
+*****Coordinate pair2*****
+Input the co-ordinate point P(X1,Y1):
+X1: Y1: Input the co-ordinate point Q(X2,Y2):
+X2: Y2: The distance between the pairs of coordinates: 5.000000
+

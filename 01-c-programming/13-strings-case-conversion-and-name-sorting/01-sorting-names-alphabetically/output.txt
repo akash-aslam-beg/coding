@@ -1,0 +1,8 @@
+Enter 5 names, one per line:
+
+Sorted Names:
+Alex
+Bo
+Chen
+Mira
+Zara

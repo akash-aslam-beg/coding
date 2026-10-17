@@ -1,0 +1,2 @@
+Number of values: Even values (4): -2 0 2 4
+Odd values (2): -3 1

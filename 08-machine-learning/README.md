@@ -1,0 +1,28 @@
+# Machine learning
+
+Regression, classification, clustering, dimensionality reduction and model evaluation. Recorded tutorial sources are listed alongside the examples.
+
+- [Single-variable linear regression](01-single-variable-linear-regression/README.md)
+- [Multiple-variable linear regression](02-multiple-variable-linear-regression/README.md)
+- [Gradient descent and cost functions](03-gradient-descent-and-cost-functions/README.md)
+- [Batch, stochastic and minibatch gradient descent](04-batch-stochastic-and-minibatch-gradient-descent/README.md)
+- [Categorical encoding](05-categorical-encoding/README.md)
+- [Binary logistic regression](06-binary-logistic-regression/README.md)
+- [Decision-tree classification](07-decision-tree-classification/README.md)
+- [Random forests](08-random-forests/README.md)
+- [K-means and clustering interpretation](09-k-means-and-clustering-interpretation/README.md)
+- [L1 and L2 regularization](10-l1-and-l2-regularization/README.md)
+- [Nearest-neighbor classification](11-nearest-neighbor-classification/README.md)
+- [Bagging and ensemble evaluation](12-bagging-and-ensemble-evaluation/README.md)
+- [Gradient descent for Nusselt-number regression](13-gradient-descent-for-nusselt-number-regression/README.md)
+- [Employee-turnover dataset: exploratory logistic classification](14-employee-turnover-dataset-exploratory-logistic-classification/README.md)
+- [Synthetic multiclass classification and categorical encoding](15-synthetic-multiclass-classification-and-categorical-encoding/README.md)
+- [Canadian per-capita income: regression practice](16-canadian-per-capita-income-regression-practice/README.md)
+- [House-price regression lesson and model handling](17-house-price-regression-lesson-and-model-handling/README.md)
+- [Grid search and randomized model search](18-grid-search-and-randomized-model-search/README.md)
+- [Multiclass logistic regression and digit recognition](19-multiclass-logistic-regression-and-digit-recognition/README.md)
+- [Train/test splits and cross-validation](20-train-test-splits-and-cross-validation/README.md)
+- [Music-classifier practice and model persistence](21-music-classifier-practice-and-model-persistence/README.md)
+- [Naive Bayes and class likelihoods](22-naive-bayes-and-class-likelihoods/README.md)
+- [PCA and digit classification](23-pca-and-digit-classification/README.md)
+- [Support-vector classification](24-support-vector-classification/README.md)

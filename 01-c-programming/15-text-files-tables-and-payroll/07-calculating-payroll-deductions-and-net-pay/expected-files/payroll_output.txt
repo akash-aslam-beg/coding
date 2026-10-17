@@ -1,0 +1,7 @@
+Employee ID: 101
+Basic Salary: 1000.000000
+Allowances: 200.000000
+Deductions: 50.000000
+PF: 100.000000
+Gross Salary: 1200.000000
+Net Salary: 1050.000000

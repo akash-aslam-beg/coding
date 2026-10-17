@@ -1,0 +1,4 @@
+Enter the value of a: Enter the value of b: Enter the value of c: 
+
+X1=2.000000
+X2=1.000000

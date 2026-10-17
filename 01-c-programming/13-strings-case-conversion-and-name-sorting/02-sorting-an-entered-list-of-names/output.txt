@@ -1,0 +1,7 @@
+Enter the number of names: Enter name 1: Enter name 2: Enter name 3: Enter name 4: Enter name 5: 
+Sorted Names:
+Alex
+Bo
+Chen
+Mira
+Zara

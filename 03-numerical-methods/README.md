@@ -1,0 +1,28 @@
+# Numerical methods
+
+- [Finite differences from functions and sampled data](01-finite-differences-from-functions-and-sampled-data/README.md)
+- [Finite-difference solution of a boundary-value problem](02-finite-difference-solution-of-a-boundary-value-problem/README.md)
+- [Solving a mixed-boundary problem](03-solving-a-mixed-boundary-problem/README.md)
+- [Boundary-value finite-difference tutorial notes](04-boundary-value-finite-difference-tutorial-notes/README.md)
+- [Mixed boundary conditions and grid refinement](05-mixed-boundary-conditions-and-grid-refinement/README.md)
+- [Assembling a variable-coefficient boundary-value problem](06-assembling-a-variable-coefficient-boundary-value-problem/README.md)
+- [Trapezoidal and both Simpson composite rules](07-trapezoidal-and-both-simpson-composite-rules/README.md)
+- [Euler method for an initial-value problem](08-euler-method-for-an-initial-value-problem/README.md)
+- [Runge-Kutta (RK4) for exponential decay](09-runge-kutta-rk4-for-exponential-decay/README.md)
+- [Runge-Kutta solution of a forced ODE](10-runge-kutta-solution-of-a-forced-ode/README.md)
+- [Setting up an initial-value grid](11-setting-up-an-initial-value-grid/README.md)
+- [Trapezoidal and Simpson integration exercises](12-trapezoidal-and-simpson-integration-exercises/README.md)
+- [Gauss-Seidel iteration for a linear system](13-gauss-seidel-iteration-for-a-linear-system/README.md)
+- [Jacobi iteration for a linear system](14-jacobi-iteration-for-a-linear-system/README.md)
+- [Comparing Jacobi and Gauss-Seidel iteration](15-comparing-jacobi-and-gauss-seidel-iteration/README.md)
+- [Gauss-Jordan and matrix row operations](16-gauss-jordan-and-matrix-row-operations/README.md)
+- [Bisection and interval bracketing](17-bisection-and-interval-bracketing/README.md)
+- [Newton-Raphson for scalar equations](18-newton-raphson-for-scalar-equations/README.md)
+- [Newton-Raphson for coupled nonlinear equations](19-newton-raphson-for-coupled-nonlinear-equations/README.md)
+- [SciPy root-finding comparison](20-scipy-root-finding-comparison/README.md)
+- [Fixed-point iteration for coupled nonlinear equations](21-fixed-point-iteration-for-coupled-nonlinear-equations/README.md)
+- [Fixed-point iteration and convergence](22-fixed-point-iteration-and-convergence/README.md)
+- [Exponential curve fitting: manual and SciPy approaches](23-exponential-curve-fitting-manual-and-scipy-approaches/README.md)
+- [Nonlinear and Gaussian fitting exploration](24-nonlinear-and-gaussian-fitting-exploration/README.md)
+
+24 notebooks passed earlier local execution. Saved outputs remain in the other notebooks; their runtime status is listed in [VERIFICATION.md](../VERIFICATION.md).

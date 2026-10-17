@@ -1,0 +1,2 @@
+Enter ten names and ages:
+Name to find: Mira: 22 years

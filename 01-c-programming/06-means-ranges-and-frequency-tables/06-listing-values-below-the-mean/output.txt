@@ -1,0 +1,11 @@
+
+Enter 10 values:
+Enter value 1: Enter value 2: Enter value 3: Enter value 4: Enter value 5: Enter value 6: Enter value 7: Enter value 8: Enter value 9: Enter value 10: 
+Mean of the values 5.500000
+
+The values which are less than mean is:
+1
+2
+3
+4
+5

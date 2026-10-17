@@ -1,0 +1,49 @@
+This program processes Degree Exam results
+************************************************
+
+Enter the number of candidate's: 
+Enter Roll and marks obtained out of 100 by the corresponding candidates in each subject:
+
+Candidate No.1
+-------------------------
+Roll number: 
+Marks in subject-1:  Marks in subject-2:  Marks in subject-3:  Marks in subject-4:  
+Candidate No.2
+-------------------------
+Roll number: 
+Marks in subject-1:  Marks in subject-2:  Marks in subject-3:  Marks in subject-4:  
+Candidate No.3
+-------------------------
+Roll number: 
+Marks in subject-1:  Marks in subject-2:  Marks in subject-3:  Marks in subject-4:  
+
+Results of the passsed students are as follows:
+
+Candidate No.1
+-------------------------
+Roll number: 1
+
+Marks obtained in subject-1:  60.00
+Marks obtained in subject-2:  70.00
+Marks obtained in subject-3:  80.00
+Marks obtained in subject-4:  90.00
+
+Total marks obtained: 300.00 out of 400
+Average: 75.00 %
+
+Result: 1st Division
+
+Candidate No.3
+-------------------------
+Roll number: 3
+
+Marks obtained in subject-1:  33.00
+Marks obtained in subject-2:  33.00
+Marks obtained in subject-3:  33.00
+Marks obtained in subject-4:  45.00
+
+Total marks obtained: 144.00 out of 400
+Average: 36.00 %
+
+Result: 3rd Division
+

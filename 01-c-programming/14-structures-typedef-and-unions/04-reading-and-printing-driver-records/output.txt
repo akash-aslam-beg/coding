@@ -1,0 +1,39 @@
+Enter the information of the Drivers:
+
+Enter the informations of first Driver:
+Enter the name of the first driver:
+Enter the driving license no. of the first driver:
+Enter the route of the first driver:
+Enter the total distance in KM for the first driver:
+
+Enter the informations of second Driver:
+Enter the name of the second driver:
+Enter the driving license no. of the second driver:
+Enter the route of the second driver:
+Enter the total distance in KM for the second driver:
+
+Enter the informations of third Driver:
+Enter the name of the third driver:
+Enter the driving license no. of the third driver:
+Enter the route of the third driver:
+Enter the total distance in KM for the third driver:
+
+
+Information of the first driver:
+Name of the first driver: Alex
+Driving license of the first driver: 101
+Route of the first driver: North
+Total distance of the first driver in kM: 120
+
+Information of the second driver:
+Name of the second driver: Bo
+Driving license of the second driver: 102
+Route of the second driver: South
+Total distance of the second driver in kM: 95
+
+Information of the third driver:
+Name of the third driver: Chen
+Driving license of the third driver: 103
+Route of the third driver: East
+Total distance of the third driver in kM: 140
+

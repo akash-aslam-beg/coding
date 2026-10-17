@@ -1,0 +1,22 @@
+
+Enter the radii of the 5 circles to find Area:
+
+*****Circle1*****
+Input radius: Area = 3.141593 
+
+
+*****Circle2*****
+Input radius: Area = 12.566371 
+
+
+*****Circle3*****
+Input radius: Area = 28.274334 
+
+
+*****Circle4*****
+Input radius: Area = 50.265484 
+
+
+*****Circle5*****
+Input radius: Area = 78.539818 
+

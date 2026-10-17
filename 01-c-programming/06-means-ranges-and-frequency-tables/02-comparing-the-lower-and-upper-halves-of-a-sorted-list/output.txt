@@ -1,0 +1,8 @@
+Enter value 1 of list X: Enter value 2 of list X: Enter value 3 of list X: Enter value 4 of list X: Enter value 5 of list X: Enter value 6 of list X: Enter value 7 of list X: Enter value 8 of list X: Enter value 9 of list X: Enter value 10 of list X: 
+The smaller five values in list X is:
+1   2   3   4   5   
+The bigger five values in list X is:
+6   7   8   9   10   
+
+Mean of the smaller five values 3.000
+Mean of the bigger five values 8.000
