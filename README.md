@@ -1,4 +1,4 @@
-# Mechanical engineering programming
+# Coding
 
 Programming work in C and Python, including NumPy, Pandas, Matplotlib, SciPy and scikit-learn. The collection includes elementary exercises, numerical methods, and calculations used during courses, experiments, thesis work and manuscript preparation.
 
@@ -11,10 +11,6 @@ Programming work in C and Python, including NumPy, Pandas, Matplotlib, SciPy and
 - [Nonlinear fracture equations](02-atomistic-geometry-and-fracture/03-solving-nonlinear-fracture-equations/README.md): NLFM and a quantized-length correction with dimensionless example parameters.
 - [Elastic modulus](05-composite-calculations/01-calculating-elastic-modulus/README.md): Composite calculations using a generated example workbook.
 - [Flexural and tensile curve areas](05-composite-calculations/02-integrating-flexural-and-tensile-curves/README.md): Curve integration using a generated example workbook.
-
-[![Center-notch construction in Ti₂N Mxene monolayer for fracture study](02-atomistic-geometry-and-fracture/01-center-notch-construction/media/preview-01.png)](02-atomistic-geometry-and-fracture/01-center-notch-construction/README.md)
-
-[![Crack-tip stress fields from MD dump trajectories](02-atomistic-geometry-and-fracture/02-crack-tip-stress-fields-from-md-dump-trajectories/media/preview-01.gif)](02-atomistic-geometry-and-fracture/02-crack-tip-stress-fields-from-md-dump-trajectories/README.md)
 
 ## Subjects
 
@@ -43,9 +39,3 @@ Scientific Python dependencies are listed in `requirements.txt`. Machine-learnin
 Run notebook cells with the notebook's own folder as the working directory. Topic READMEs list required data files and any recorded dataset links. Raw simulation trajectories and experimental workbooks are not included. The composite examples use generated data.
 
 The saved outputs and earlier execution checks have different verification scopes. See [VERIFICATION.md](VERIFICATION.md) for the details. Practice-table contact fields use anonymous example addresses.
-
-## Coursework
-
-The C examples include Computer Programming (ME 2221) and its sessional (ME 2222), taken in the second year, second semester, together with exercises from Numerical Computation for Mechanical Engineers (ME 3121) and its sessional (ME 3122).
-
-Learning references and dataset sources are listed in [SOURCES.md](SOURCES.md).
